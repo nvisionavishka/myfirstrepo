@@ -2,6 +2,11 @@
 
 description for my first repo!
 
-##second heador
 
-check the connectivity between remote host and local computer
+##subheader
+
+description for my first repository
+
+## subheader2
+
+This is a subheader into a subheader
